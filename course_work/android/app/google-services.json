@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "335770779281",
+    "project_id": "todoflutterapp-1a190",
+    "storage_bucket": "todoflutterapp-1a190.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335770779281:android:1c2228d2fb131100c24930",
+        "android_client_info": {
+          "package_name": "com.example.course_work"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335770779281-5k3sa3notjti1dsjg5m934so0ifn3q7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHayvaF_AvX3MlQ0unC6mJoY8BVtwbQmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335770779281-5k3sa3notjti1dsjg5m934so0ifn3q7q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
