@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1021867450418",
+    "project_id": "recipes-dev-cb706",
+    "storage_bucket": "recipes-dev-cb706.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021867450418:android:8aafef3bea57f9f21c9c2b",
+        "android_client_info": {
+          "package_name": "com.paulus.recipes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021867450418-eer76cqfg221trv9hd3u88eev00ia1hb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI9R5tZqu6DHIL0m1WUYbJ5J07MewnzdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021867450418-eer76cqfg221trv9hd3u88eev00ia1hb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021867450418:android:e5e0f8e3fdaffc2c1c9c2b",
+        "android_client_info": {
+          "package_name": "com.paulusOlkoulus.course_work_on_md"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021867450418-eer76cqfg221trv9hd3u88eev00ia1hb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI9R5tZqu6DHIL0m1WUYbJ5J07MewnzdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021867450418-eer76cqfg221trv9hd3u88eev00ia1hb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
